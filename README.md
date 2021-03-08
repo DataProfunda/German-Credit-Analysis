@@ -139,6 +139,9 @@ To show trend more cleary I've perform anomaly detection(on Age and Credit amoun
 Also I've perform anomaly detection with all features.
 In the bigger picture those clients that we classified ealier as an anomaly, are regular clients.
 
+![pobrane (3)](https://user-images.githubusercontent.com/69935274/110396205-e2d0ec00-806f-11eb-8354-d404edaf79a9.png)
+
+
 
 
 
