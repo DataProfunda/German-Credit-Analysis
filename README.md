@@ -1,7 +1,8 @@
 # German Credit Analysis
 Analysis of creditability of german bank clients.
+![ssad](https://user-images.githubusercontent.com/69935274/110396065-9ab1c980-806f-11eb-8f03-d2dcf83468ad.jpg) <br>
 
-#Introduction
+# Introduction
 
 Hello! I am Konstanty and in this kernel we will explore German Credit Dataset. <br>
 What client's features determines creditability? <br>
@@ -118,7 +119,7 @@ foreign worker
 2 : no
 
 
-#Analysis
+# Analysis
 Creditability
 70% of clients have creditability
 30% don't
