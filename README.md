@@ -126,7 +126,8 @@ Creditability
 
 ![pobrane](https://user-images.githubusercontent.com/69935274/110395133-eb282780-806d-11eb-8c73-c5fe5b7c3a75.png)
 
-Age and Credit Amount
+# Age and Credit Amount
+
 We can see that creditability is lower when amount of credit is higher. <br>
 Most of credit amount are up to 5000. <br>
 Younger clients tend to apply for bigger credits than older. <br>
