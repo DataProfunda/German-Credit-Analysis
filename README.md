@@ -141,6 +141,16 @@ In the bigger picture those clients that we classified ealier as an anomaly, are
 
 ![pobrane (3)](https://user-images.githubusercontent.com/69935274/110396205-e2d0ec00-806f-11eb-8354-d404edaf79a9.png)
 
+Can correlation matrix tell us more about the data?
+
+6 first features(instead of purpose) are strongly correlated. <br>
+Account Balance, duly payment status of previous credit and Saving /Stock are positively correlated with Creditability. <br>
+Credit amount and duration of the credit are negatively correlated. <br>
+![pobrane (4)](https://user-images.githubusercontent.com/69935274/110396317-20ce1000-8070-11eb-9c2e-1bfe643fba42.png)
+
+
+
+
 
 
 
