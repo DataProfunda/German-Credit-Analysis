@@ -126,6 +126,11 @@ Creditability
 
 ![pobrane](https://user-images.githubusercontent.com/69935274/110395133-eb282780-806d-11eb-8c73-c5fe5b7c3a75.png)
 
+# Purpose 
+![books_read](https://user-images.githubusercontent.com/69935274/110550652-63f1b700-8134-11eb-87b5-aa667f15af2a.png)
+
+
+
 # Age and Credit Amount
 
 We can see that creditability is lower when amount of credit is higher. <br>
