@@ -150,7 +150,18 @@ Credit amount and duration of the credit are negatively correlated. <br>
 ![pobrane (4)](https://user-images.githubusercontent.com/69935274/110396317-20ce1000-8070-11eb-9c2e-1bfe643fba42.png)
 
 
+# Client Classifier<br>
+To build Classifier I've written two files.<br>
 
+CreditAnalysis.py - data preprocessing, anomalies detection, train/test split <br>
+
+MultiClassifierModule.py - contain class MultiClassifier. We do classification with 3 algorithm(ExtraTreesClassifier, RandomForestClassifier, VotingClassifier)<br>
+For hyperparameters we are using GridSearchCV. To improve accuracy we do n repetition of training and choose the best model.
+
+Accuracy ≈ 80% 
+
+# Conclusion
+The biggest surprise for me was that younger tend to take big credits that they can't pay back. It looks like older are more aware of the risk that they are taking and know the value of the money.
 
 
 
