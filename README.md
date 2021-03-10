@@ -138,11 +138,13 @@ Creditability
 # Average Profit
 ![Avg_Profit](https://user-images.githubusercontent.com/69935274/110664338-9ac4dd00-81c7-11eb-9047-f5b776e20365.png)
 
-# Client's Age and Credit Amount
+# Risk vs Client's Age and Credit Amount
 
 We can see that creditability is lower when amount of credit is higher. <br>
 Most of credit amount are up to 5000. <br>
 Younger clients tend to apply for bigger credits than older. <br>
+Blue dot - discreditable
+Red dot - creaditable
 
 ![pobrane (1)](https://user-images.githubusercontent.com/69935274/110395313-36423a80-806e-11eb-8d91-9f312198e5dd.png)
 
