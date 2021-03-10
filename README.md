@@ -129,6 +129,17 @@ Creditability
 # Purpose 
 ![books_read](https://user-images.githubusercontent.com/69935274/110550652-63f1b700-8134-11eb-87b5-aa667f15af2a.png)
 
+# Average Credit Amount
+![avg_credit](https://user-images.githubusercontent.com/69935274/110663960-47eb2580-81c7-11eb-9d64-7261ae71af2b.png)
+
+# Average Creditability 
+![avg_creditability](https://user-images.githubusercontent.com/69935274/110664154-76690080-81c7-11eb-9069-22386eaf7002.png)
+
+# Average Profit
+![Avg_Profit](https://user-images.githubusercontent.com/69935274/110664338-9ac4dd00-81c7-11eb-9047-f5b776e20365.png)
+
+# Credit Count
+![books_read](https://user-images.githubusercontent.com/69935274/110664466-b4662480-81c7-11eb-99fc-41795fcb5f18.png)
 
 
 # Age and Credit Amount
