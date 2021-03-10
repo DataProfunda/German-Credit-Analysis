@@ -193,7 +193,11 @@ For hyperparameters we are using GridSearchCV. To improve accuracy we do n repet
 Accuracy ≈ 80% 
 
 # Conclusion
-The biggest surprise for me was that younger tend to take big credits that they can't pay back. It looks like older are more aware of the risk that they are taking and know the value of the money.
+
+The biggest surprise for me was that younger clients tend to take bigger credits. Main credit purpose for them is education.
+Even though their creditability is low, "An investment in education always pays the highest returns". 
+In a longer period of time their creditability will increase.
+It looks like older are more aware of the risk that they are taking and know the value of the money.
 
 
 
