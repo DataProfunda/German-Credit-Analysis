@@ -1,6 +1,6 @@
 # German Credit Analysis
 Analysis of creditability of german bank clients.
-![ssad](https://user-images.githubusercontent.com/69935274/110396065-9ab1c980-806f-11eb-8f03-d2dcf83468ad.jpg) <br>
+![ddelo](https://user-images.githubusercontent.com/69935274/110676424-3c522b80-81d4-11eb-807c-d88f3c22a4a0.jpg) <br>
 
 # Introduction
 
