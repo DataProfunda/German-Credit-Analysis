@@ -138,10 +138,6 @@ Creditability
 # Average Profit
 ![Avg_Profit](https://user-images.githubusercontent.com/69935274/110664338-9ac4dd00-81c7-11eb-9047-f5b776e20365.png)
 
-# Credit Count
-![books_read](https://user-images.githubusercontent.com/69935274/110664466-b4662480-81c7-11eb-99fc-41795fcb5f18.png)
-
-
 # Age and Credit Amount
 
 We can see that creditability is lower when amount of credit is higher. <br>
