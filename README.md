@@ -133,7 +133,7 @@ Creditability
 ![avg_credit](https://user-images.githubusercontent.com/69935274/110663960-47eb2580-81c7-11eb-9d64-7261ae71af2b.png)
 
 # Average Creditability 
-![avg_creditability](https://user-images.githubusercontent.com/69935274/110664154-76690080-81c7-11eb-9069-22386eaf7002.png)
+![avg_Creditability](https://user-images.githubusercontent.com/69935274/110665722-e9bf4200-81c8-11eb-9ea5-a9deae8f3893.png)
 
 # Average Profit
 ![Avg_Profit](https://user-images.githubusercontent.com/69935274/110664338-9ac4dd00-81c7-11eb-9047-f5b776e20365.png)
