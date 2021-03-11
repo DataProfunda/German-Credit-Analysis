@@ -164,8 +164,8 @@ Credits forretraining and domestic appliances are the least profitable credits. 
 We can see that creditability is lower when amount of credit is higher. <br>
 Most of credit amount are up to 5000. <br>
 Younger clients tend to apply for bigger credits than older. <br>
-Blue dot - discreditable  <br>
-Red dot - creaditable  <br>
+Blue dot - creditable  <br>
+Red dot - discreaditable  <br>
 
 ![pobrane (1)](https://user-images.githubusercontent.com/69935274/110395313-36423a80-806e-11eb-8d91-9f312198e5dd.png)
 
