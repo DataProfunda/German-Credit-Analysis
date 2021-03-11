@@ -135,18 +135,19 @@ Least of the credit request are for retraining and domestic appliances.  <br>
 # Average Credit Amount
 ![avg_credit](https://user-images.githubusercontent.com/69935274/110663960-47eb2580-81c7-11eb-9d64-7261ae71af2b.png)
 
-Biggest average credit amount concerns purposes such as others and used car. <br>
-Smallest average credit amount relate to retraining and domestic appliances.  <br>
+Biggest average credit amount concerns purposes such as 'others' and 'used car'. <br>
+Smallest average credit amount relate to 'retraining' and 'domestic appliances'.  <br>
 
-Nevertheless average credit amount for used car is bigger than for new car. <br>
+Nevertheless average credit amount for 'used car' is bigger than for 'new car'. <br> 
 In my opinion, this is a mistake in the source file, because all of available datasets contains same information about credit amount and purposes.
+
 <br>
 
 # Average Creditability 
 ![avg_Creditability](https://user-images.githubusercontent.com/69935274/110665722-e9bf4200-81c8-11eb-9ea5-a9deae8f3893.png)
 
-Clients that applied for used car / retraining are marked by high creditability. <br>
-Clients that applied for education / others are marked by low creditability.  <br>
+Clients that applied for 'used car' and 'retraining' are marked by high creditability. <br>
+Clients that applied for 'education' and 'others' are marked by low creditability.  <br>
 
 Credits for education are usually taken by students. <br>
 That would explain low creditability. <br>
@@ -154,7 +155,7 @@ That would explain low creditability. <br>
 # Average Profit
 ![Avg_Profit](https://user-images.githubusercontent.com/69935274/110664338-9ac4dd00-81c7-11eb-9047-f5b776e20365.png)  <br>
 
-Credits for used car and other purposes are the most profitable credits. <br>
+Credits for 'used car' and other purposes are the most profitable credits. <br>
 Credits forretraining and domestic appliances are the least profitable credits. <br>
 
 # Risk vs Client's Age and Credit Amount
