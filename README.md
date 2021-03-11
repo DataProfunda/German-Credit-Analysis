@@ -1,5 +1,6 @@
 # German Credit Analysis
-Analysis of creditability of german bank clients.
+Creditability Analysis of german bank clients.
+
 ![ddelo](https://user-images.githubusercontent.com/69935274/110676424-3c522b80-81d4-11eb-807c-d88f3c22a4a0.jpg) <br>
 
 # Introduction
@@ -129,8 +130,8 @@ Creditability
 # Purpose 
 ![books_read](https://user-images.githubusercontent.com/69935274/110550652-63f1b700-8134-11eb-87b5-aa667f15af2a.png)
 
-Majority of the clients take credits for radio / television and new cars. <br>
-Least of the credit request are for retraining and domestic appliances.  <br>
+Majority of the clients take credits for 'radio / television' and 'new car'. <br>
+Least of the credit request are for 'retraining' and 'domestic appliances'.  <br>
 
 # Average Credit Amount
 ![avg_credit](https://user-images.githubusercontent.com/69935274/110663960-47eb2580-81c7-11eb-9d64-7261ae71af2b.png)
