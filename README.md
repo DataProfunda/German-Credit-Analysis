@@ -149,6 +149,7 @@ Clients that applied for used car / retraining are marked by high creditability.
 Clients that applied for education / others are marked by low creditability.  <br>
 
 Credits for education are usually taken by students. <br>
+That would explain low creditability. <br>
 
 # Average Profit
 ![Avg_Profit](https://user-images.githubusercontent.com/69935274/110664338-9ac4dd00-81c7-11eb-9047-f5b776e20365.png)  <br>
