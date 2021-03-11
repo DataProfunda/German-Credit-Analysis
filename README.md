@@ -139,7 +139,7 @@ Biggest average credit amount concerns purposes such as 'others' and 'used car'.
 Smallest average credit amount relate to 'retraining' and 'domestic appliances'.  <br>
 
 Nevertheless average credit amount for 'used car' is bigger than for 'new car'. <br> 
-In my opinion, this is a mistake in the source file, because all of available datasets contains same information about credit amount and purposes.
+In my opinion, this is a mistake in the source file, because all of available datasets contains same information about 'credit amount' and 'purposes'.
 
 <br>
 
