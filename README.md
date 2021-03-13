@@ -1,6 +1,13 @@
 # German Credit Analysis
 Creditability Analysis of german bank clients.
 
+# Conclusion
+
+The biggest surprise for me was that younger clients tend to take bigger credits. Main credit purpose for them is education.
+Even though their creditability is low, "An investment in education always pays the highest returns". 
+In a longer period of time their creditability will increase.
+It looks like older are more aware of the risk that they are taking and know the value of the money.
+
 ![ddelo](https://user-images.githubusercontent.com/69935274/110676424-3c522b80-81d4-11eb-807c-d88f3c22a4a0.jpg) <br>
 
 # Introduction
